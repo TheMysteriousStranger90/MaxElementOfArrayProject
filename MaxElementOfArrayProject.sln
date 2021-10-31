@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxElementOfArrayProject", "MaxElementOfArrayProject\MaxElementOfArrayProject.csproj", "{44FADB6A-F5B4-4D39-AC58-AEAC8AE7AF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxElementOfArrayClassLibrary", "MaxElementOfArrayClassLibrary\MaxElementOfArrayClassLibrary.csproj", "{EEA27EA8-9614-46B7-A54E-CB7C4AEA4EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FADB6A-F5B4-4D39-AC58-AEAC8AE7AF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FADB6A-F5B4-4D39-AC58-AEAC8AE7AF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FADB6A-F5B4-4D39-AC58-AEAC8AE7AF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FADB6A-F5B4-4D39-AC58-AEAC8AE7AF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA27EA8-9614-46B7-A54E-CB7C4AEA4EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA27EA8-9614-46B7-A54E-CB7C4AEA4EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA27EA8-9614-46B7-A54E-CB7C4AEA4EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA27EA8-9614-46B7-A54E-CB7C4AEA4EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
